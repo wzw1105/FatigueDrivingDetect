@@ -1,5 +1,9 @@
 # 基于端云算力协同的疲劳驾驶智能识别
 
+## 项目展示
+![](images/演示视频.gif)
+
+## 项目介绍
 ![image](images/幻灯片1.PNG)
 
 ![image](images/幻灯片2.PNG)
